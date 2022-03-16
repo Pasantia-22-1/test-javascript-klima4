@@ -1,2 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7334344&assignment_repo_type=AssignmentRepo)
-# Test-javascript
+Enlace repositorio:
+[Github-Pages ](https://github.com/Pasantia-22-1/test-javascript-klima4)
+
+![Alt text](capturas/console.jpg) "home")
+
+Las pruebas las hice en esta pagina para visualizar mejor el resultado e ir guardando las respuestas aqui
+https://playcode.io/new/
+
+permite ver codigo en tiempo real
